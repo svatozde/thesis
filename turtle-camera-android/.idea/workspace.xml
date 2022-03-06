@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c45894f-9f90-4c53-a04e-ea7060e8dcd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tananaev/simplecamera/AutoFitTextureView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tananaev/simplecamera/BaseCameraActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tananaev/simplecamera/Camera2Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tananaev/simplecamera/CameraActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tananaev/simplecamera/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_camera_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_camera_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_camera_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_camera_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_camera.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_camera.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R58R21DNHSB]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turtle-camera-android" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turtle-camera-android" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turtle-camera-android" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turtle-camera-android" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turtle-camera-android" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turtle-camera-android" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\z.svaton\android_keystore.jks" />
+    <option name="KEY_ALIAS" value="apk_key" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rqhfpRqDd07yXjMd49UFAxiSTs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="turtle-camera-android.app" />
+    <property name="ExportApk.ApkPath" value="C:\thesis_content\turtle-camera-android\app" />
+    <property name="ExportApk.BuildVariants" value="debug&#10;release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="DRAWABLE" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/z.svaton/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/androidx/viewpager2/widget/ViewPager2.java_SELECTED" value="ViewPager2" />
+    <property name="android-custom-viewC:/Users/z.svaton/AppData/Local/Android/Sdk/sources/android-29/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/Users/z.svaton/AppData/Local/Android/Sdk/sources/android-29/android/view/ViewGroup.java_SELECTED" value="ViewGroup" />
+    <property name="android-custom-viewC:/Users/z.svaton/AppData/Local/Android/Sdk/sources/android-29/android/widget/ImageView.java_SELECTED" value="ImageView" />
+    <property name="android-custom-viewC:/Users/z.svaton/AppData/Local/Android/Sdk/sources/android-29/android/widget/RelativeLayout.java_SELECTED" value="RelativeLayout" />
+    <property name="android-custom-viewC:/Users/z.svaton/AppData/Local/Android/Sdk/sources/android-29/android/widget/TextView.java_SELECTED" value="TextView" />
+    <property name="android-custom-viewC:/camera-samples/Camera2Basic/app/src/main/java/com/example/android/camera2/basic/MessageView.kt_SELECTED" value="MessageView" />
+    <property name="android-custom-viewC:/camera-samples/Camera2Basic/utils/src/main/java/com/example/android/camera/utils/AutoFitSurfaceView.kt_SELECTED" value="AutoFitSurfaceView" />
+    <property name="android-custom-viewC:/thesis_content/turtle-camera-android/app/src/main/java/com/example/android/camera2/basic/MessageView.kt_SELECTED" value="MessageView" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-previewC:/Users/z.svaton/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/androidx/viewpager2/widget/ViewPager2.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/z.svaton/AppData/Local/Android/Sdk/sources/android-29/android/view/View.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/z.svaton/AppData/Local/Android/Sdk/sources/android-29/android/view/ViewGroup.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/z.svaton/AppData/Local/Android/Sdk/sources/android-29/android/widget/ImageView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/z.svaton/AppData/Local/Android/Sdk/sources/android-29/android/widget/RelativeLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/z.svaton/AppData/Local/Android/Sdk/sources/android-29/android/widget/TextView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/camera-samples/Camera2Basic/app/src/main/java/com/example/android/camera2/basic/MessageView.kt_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/camera-samples/Camera2Basic/utils/src/main/java/com/example/android/camera/utils/AutoFitSurfaceView.kt_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/thesis_content/turtle-camera-android/app/src/main/java/com/example/android/camera2/basic/MessageView.kt_selected" value="Custom views" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-1432473190">
+      <recent name="com.example.android.camera2.basic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\camera-samples\Camera2Basic\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Camera2Basic [build]">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="turtle-camera-android.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Camera2Basic [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Camera2Basic:app [assembleRelease]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assembleRelease" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Camera2Basic:app [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Camera2Basic:app [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="turtle-camera-android [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.turtle-camera-android [buildDependents]" />
+        <item itemvalue="Gradle.Camera2Basic [build]" />
+        <item itemvalue="Gradle.Camera2Basic:app [assembleRelease]" />
+        <item itemvalue="Gradle.Camera2Basic:app [build]" />
+        <item itemvalue="Gradle.Camera2Basic:app [assemble]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c45894f-9f90-4c53-a04e-ea7060e8dcd0" name="Default Changelist" comment="" />
+      <created>1619709632335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619709632335</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="-906" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619777346965">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="414" y="-906" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1619777346965" />
+    <state x="765" y="-854" key="#com.intellij.ide.util.MemberChooser" timestamp="1619716897983">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="765" y="-854" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1619716897983" />
+    <state x="92" y="-988" width="1736" height="856" key="AVDManager" timestamp="1619778836261">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="92" y="-988" width="1736" height="856" key="AVDManager/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1619778836261" />
+    <state x="540" y="-806" key="AndroidCreateResourceDirectoryDialog" timestamp="1620034887976">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="540" y="-806" key="AndroidCreateResourceDirectoryDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620034887976" />
+    <state x="540" y="-806" key="AndroidCreateResourceFileDialog" timestamp="1620034976724">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="540" y="-806" key="AndroidCreateResourceFileDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620034976724" />
+    <state width="450" height="466" key="DebuggerActiveHint" timestamp="1619794998134">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="450" height="466" key="DebuggerActiveHint/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1619794998134" />
+    <state x="268" y="-986" key="DiffContextDialog" timestamp="1619804850759">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="268" y="-986" key="DiffContextDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1619804850759" />
+    <state x="592" y="217" key="FileChooserDialogImpl" timestamp="1620243256556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="740" y="-806" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620219881109" />
+    <state x="592" y="217" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1620243256556" />
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom" timestamp="1620244511848">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620244511848" />
+    <state width="1491" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1620243405860" />
+    <state width="1877" height="345" key="GridCell.Tab.0.center" timestamp="1620244511848">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620244511848" />
+    <state width="1491" height="207" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1620243405859" />
+    <state width="1877" height="345" key="GridCell.Tab.0.left" timestamp="1620244511848">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620244511848" />
+    <state width="1491" height="207" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1620243405858" />
+    <state width="1877" height="345" key="GridCell.Tab.0.right" timestamp="1620244511848">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620244511848" />
+    <state width="1491" height="207" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1620243405860" />
+    <state width="1877" height="426" key="GridCell.Tab.1.bottom" timestamp="1620228475747">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="426" key="GridCell.Tab.1.bottom/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620228475747" />
+    <state width="1476" height="336" key="GridCell.Tab.1.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1619714485114" />
+    <state width="1877" height="426" key="GridCell.Tab.1.center" timestamp="1620228475747">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="426" key="GridCell.Tab.1.center/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620228475747" />
+    <state width="1476" height="336" key="GridCell.Tab.1.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1619714485114" />
+    <state width="1877" height="426" key="GridCell.Tab.1.left" timestamp="1620228475747">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="426" key="GridCell.Tab.1.left/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620228475747" />
+    <state width="1476" height="336" key="GridCell.Tab.1.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1619714485114" />
+    <state width="1877" height="426" key="GridCell.Tab.1.right" timestamp="1620228475747">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="426" key="GridCell.Tab.1.right/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620228475747" />
+    <state width="1476" height="336" key="GridCell.Tab.1.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1619714485114" />
+    <state x="633" y="-936" key="RollbackChangesDialog" timestamp="1619808129671">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="633" y="-936" key="RollbackChangesDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1619808129671" />
+    <state x="506" y="114" key="RollbackChangesDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1619711235183" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1619709895632">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1619709895632" />
+    <state x="681" y="-820" width="540" height="524" key="StructurePopup" timestamp="1619815864390">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="681" y="-820" width="540" height="524" key="StructurePopup/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1619815864390" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1619804156764">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1619804156764" />
+    <state x="125" y="-954" width="1670" height="788" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1620032321503">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="125" y="-954" width="1670" height="788" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620032321503" />
+    <state x="100" y="100" width="1336" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1619712256655" />
+    <state x="528" y="-832" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1620032015641">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="528" y="-832" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620032015641" />
+    <state x="539" y="-897" width="840" height="856" key="search.everywhere.popup" timestamp="1620244196776">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="539" y="-897" width="840" height="856" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1620244196776" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1619710359914" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/android/camera2/basic/fragments/ImageViewerFragment.kt</url>
+          <line>162</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/android/camera2/basic/fragments/ImageViewerFragment.kt</url>
+          <line>161</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/android/camera2/basic/fragments/ImageViewerFragment.kt</url>
+          <line>152</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
